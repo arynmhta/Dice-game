@@ -1,0 +1,61 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: bisque;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Bebas Neue Static', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Bebas Neue Static', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  font-size: 25px;
+  margin-top: 15%;
+  color: #4ECCA3;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+.reload {
+  width: 70%;
+  margin: 30px auto;
+  text-align: center;
+}
+
+.reload button {
+  padding: 10px 20px;
+  font-size: 1.5rem;
+  font-family: 'Bebas Neue', cursive;
+  background-color: #4ECCA3;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.reload button:hover {
+  background-color: #3dbb94;
+}
